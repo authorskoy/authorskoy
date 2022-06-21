@@ -1,0 +1,3 @@
+- #### Web Page Templates #### 
+  - [Brandly](https://authorskoy.github.io/Brandly/ "Home page of the online clothing store.") - Home page of the online clothing store. // _non resp._
+  - [Koteika](https://authorskoy.github.io/Koteika/ "The main page of the site providing hotel services for domestic cats.") - The main page of the site providing hotel services for domestic cats. // _resp._
