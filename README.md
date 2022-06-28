@@ -1,5 +1,6 @@
 - #### Web Page Templates #### 
   - [Marvel](https://authorskoy.github.io/Marvel/ "Corporate website in bright colors.") - Corporate website in bright colors.
+  - [Voila](https://authorskoy.github.io/Voila/ "French cuisine restaurant website.") - French cuisine restaurant website.
   - [Koteika](https://authorskoy.github.io/Koteika/ "The main page of the site providing hotel services for domestic cats.") - The main page of the site providing hotel services for domestic cats.
   - [Easybank](https://authorskoy.github.io/Easybank/ "Digital banking landing page.") - Digital banking landing page.
   - [Brandly](https://authorskoy.github.io/Brandly/ "Home page of the online clothing store.") - Home page of the online clothing store. // not adaptive, without JS.
