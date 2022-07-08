@@ -3,5 +3,6 @@
   - [Speko](https://authorskoy.github.io/Speko/ "Online store of women's designer clothes.") - Online store of women's designer clothes..
   - [Voila](https://authorskoy.github.io/Voila/ "French cuisine restaurant website.") - French cuisine restaurant website.
   - [Koteika](https://authorskoy.github.io/Koteika/ "The main page of the site providing hotel services for domestic cats.") - The main page of the site providing hotel services for domestic cats.
+  - [Freshy](https://authorskoy.github.io/Freshy/ "Polish online store of fresh fish.") - Polish online store of fresh fish.
   - [Easybank](https://authorskoy.github.io/Easybank/ "Digital banking landing page.") - Digital banking landing page.
   - [Brandly](https://authorskoy.github.io/Brandly/ "Home page of the online clothing store.") - Home page of the online clothing store. // not adaptive, without JS.
